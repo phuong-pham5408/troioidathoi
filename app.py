@@ -19,6 +19,7 @@ menu = {
         "Cánh gà chiên mắm": 75000,
         "Lẩu cá diêu hồng": 200000,
         "Lẩu Thái hải sản": 300000,
+        "Lẩu Cá Đuối VungTau": 222000,
     },
     "Thức uống": {
         "Coca Cola": 20000,
